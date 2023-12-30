@@ -11,3 +11,4 @@
 
 - https://itnext.io/saml-authentication-a-comprehensive-examination-of-architecture-use-cases-benefits-and-aed1ae21cbeb
 - https://learn.microsoft.com/en-us/dotnet/standard/security/how-to-sign-xml-documents-with-digital-signatures
+- https://www.w3.org/TR/xmldsig-core
